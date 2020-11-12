@@ -30,7 +30,7 @@ $title="註冊新帳號";
        </div>
        <div class="form-group col-sm-6">
        <label>居住地</label>
-       <input type="text" name="location" class="form-control">
+       <input type="text" name="addr" class="form-control">
        </div>
        <div class="form-group col-sm-6">
        <label>學歷</label>

@@ -2,7 +2,7 @@
 include_once "header.php";
 ?>
 
-
+<h5><?php if(isset($_GET['meg'])){echo $_GET['meg'];}?></h5>
 <div class="container w-50 border p-5 mt-5 bg-dark text-light rounded-lg">
 <h4 class="pb-5 my-0">Login</h4>
 <form action="">
